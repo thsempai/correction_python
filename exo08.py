@@ -1,4 +1,4 @@
-password = "Pyth0n"
+password = "Pyth0n007"
 
 input_user = None
 tries = 3
